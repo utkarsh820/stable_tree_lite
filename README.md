@@ -16,7 +16,7 @@ Decision trees are powerful yet notoriously **unstable** models — small pertur
 We introduce a custom class `StableDecisionTree`, where training includes a **stability regularization** term:
 
 \[
-\text{Total Loss} = \text{Classification Loss} + \lambda \times \text{TreeDistance}
+$$\text{Total Loss} = \text{Classification Loss} + \lambda \times \text{TreeDistance}$$
 \]
 
 - `TreeDistance`: a structural distance between two trees (original vs. perturbed)
