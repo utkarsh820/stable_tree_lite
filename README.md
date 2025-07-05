@@ -1,4 +1,3 @@
-```markdown
 # Stable Decision Trees (Lite Research Implementation)
 
 > **Inspired by the paper:**  
