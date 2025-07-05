@@ -116,6 +116,3 @@ stable-tree-lite/
 
 Pull requests, issues, and experimental forks are welcome!  
 This is a **research-first**, **community-friendly** project.
-
----
-```
